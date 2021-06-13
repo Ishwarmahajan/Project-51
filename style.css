@@ -1,0 +1,38 @@
+
+.origami1{
+   border: solid;
+   width: 500px; 
+   padding-left: 5px;  
+   
+}
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    background-color: #787686;
+    color: #ffffff;
+    font-size: 20px
+}
+.links
+{
+   margin-bottom: 20px;
+}
+
+.header{
+    padding-top: 5px;
+    background-color: #b726e5;
+    color: #fff000;
+}
+
+.body{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+    background-image: "background.jpg";
+}
+
+#bird{
+    margin-Top: -600px ;
+}
+
